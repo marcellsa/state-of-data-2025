@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Arquivos Jupyter
+.ipynb_checkpoints/
+
+# Dados brutos ou sensíveis
+# Não vou ocultar o arquivo raw porque ele é público.
+
+# Arquivos temporários do VS Code
+.vscode/
+*.code-workspace
